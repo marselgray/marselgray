@@ -11,5 +11,6 @@ After leaving the military, I transitioned to becoming a software developer. Sin
 I write code just how I like my pancakes: full stack.
 
 [Visit My Porfolio](https://www.marselgray.com/)
+
 [Download My Resume](https://www.marselgray.com/marsel_gray_resume.pdf)
 
